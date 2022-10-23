@@ -1,0 +1,19 @@
+[
+  "Testcases/test_Sign.py::Test_jk1::test_login",
+  "Testcases/test_Sign.py::Test_tx::test_main",
+  "Testcases/test_Signin.py::Test_jk1::test_login",
+  "Testcases/test_api.py::TestApi::test_login",
+  "Testscene/test_Sign.py::Testtx::test_get_token[caseinfo0]",
+  "Testscene/test_Sign.py::Testtx::test_get_token[caseinfo1]",
+  "testcases/test_Sign.py::Test_bianliang::test_1",
+  "testcases/test_Sign.py::Test_bianliang::test_main",
+  "testcases/test_Sign.py::Test_jk1::test_login",
+  "testcases/test_Sign.py::Test_tx::test_main",
+  "testcases/test_Sign.py::Testbian::test_tx",
+  "testcases/test_Signin.py::Test_jk1::test_login",
+  "testcases/test_Signyal.py::Testtx::test_get_token[caseinfo0]",
+  "testcases/test_Signyal.py::Testtx::test_get_token[caseinfo1]",
+  "testcases/test_amount.py::Testbian::test_tx",
+  "testcases/test_api.py::TestApi::test_login",
+  "testcases/test_api.py::TestApi::test_login0"
+]

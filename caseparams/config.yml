@@ -1,0 +1,51 @@
+# config.yml
+# 使用-分隔用例，则yaml读取到的数据类型为列表
+- name: 登录
+  request:
+    json:  {'MY_APP_VERSION': '1.1.0',
+                                'access_token': '',
+                                'api_name': "kyk.userV217.signin",
+                                'appid': 1,
+                                'apple_user_id': '',
+                                'channel_id': '20001',
+                                'client_type': '0',
+                                'device_unique_id': '00000000-0000-0000-0000-000000000000',
+                                'from_new_user_boss': '0',
+                                'mobile': '18671490914',
+                                'os': 'ios',
+                                'sign': 'a6edc1128a7b855ff633c2830d2a932e',
+                                'simulator_check': '0',
+                                'time': '1665993951',
+                                'token': 'eb86fa064482989312e2a1557ddb4032',
+                                'utid': 'Yq/rb15Hi8UDAPUGRpo/FFtJ',
+                                'verify_code': 111111,
+                                'version': '1.1.0'}
+    url: https://test-funny.51k1k.com/api/api/
+    method: post
+  validate:
+    - eq: {code: 0}
+
+#- name: 登录
+#  request:
+#    json:  {'MY_APP_VERSION': '1.1.0',
+#                                'access_token': '',
+#                                'api_name': "kyk.userV217.signin",
+#                                'appid': '1',
+#                                'apple_user_id': '',
+#                                'channel_id': '20001',
+#                                'client_type': '0',
+#                                'device_unique_id': '00000000-0000-0000-0000-000000000000',
+#                                'from_new_user_boss': '0',
+#                                'mobile': '116',
+#                                'os': 'ios',
+#                                'sign': 'a6edc1128a7b855ff633c2830d2a932e',
+#                                'simulator_check': '0',
+#                                'time': '1665993951',
+#                                'token': 'eb86fa064482989312e2a1557ddb4032',
+#                                'utid': 'Yq/rb15Hi8UDAPUGRpo/FFtJ',
+#                                'verify_code': 0000,
+#                                'version': '1.1.0'}
+#    url: https://test-funny.51k1k.com/api/api/
+#    method: post
+#validate:
+#    - eq: {code: 0}
