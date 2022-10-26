@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cdbd31d-77dc-4746-8de5-809c040f0378" name="变更" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7cdbd31d-77dc-4746-8de5-809c040f0378" name="变更" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +34,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -317,7 +314,7 @@
       <workItem from="1666792939882" duration="1344000" />
       <workItem from="1666794903577" duration="485000" />
       <workItem from="1666795392646" duration="504000" />
-      <workItem from="1666795930060" duration="1597000" />
+      <workItem from="1666795930060" duration="1748000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1666797157899</created>
@@ -326,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666797157899</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1666797652939</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666797652939</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
