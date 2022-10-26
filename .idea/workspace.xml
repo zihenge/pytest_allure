@@ -4,56 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cdbd31d-77dc-4746-8de5-809c040f0378" name="变更" comment="">
+    <list default="true" id="7cdbd31d-77dc-4746-8de5-809c040f0378" name="变更" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4f867942-5c1e-4de5-b564-e79af1f1f5ce-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/data/behaviors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/data/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/data/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/data/packages.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/data/suites.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/data/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/data/test-cases/12e00fefa7ba8b4a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/data/test-cases/3ec0dddf0f355efb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/data/test-cases/9a75793a17a37fb0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/data/timeline.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/export/influxDbData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/export/mail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/export/prometheusData.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/history/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/history/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/history/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/history/history.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/history/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/plugins/behaviors/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/plugins/packages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/plugins/screen-diff/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/plugins/screen-diff/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/behaviors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/categories-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/categories.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/duration-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/duration.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/environment.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/executors.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/history-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/retry-trend.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/severity.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/status-chart.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/suites.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/allure-report/widgets/summary.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e606295f-54d8-4ed0-8e82-8aacc80c4256-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e8b4bde0-c7cc-4f8d-ad91-ca7f9d1ff723-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/caseparams/extract.yml" beforeDir="false" afterPath="$PROJECT_DIR$/caseparams/extract.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/allure-results/cdb2ffb9-9e77-48a1-829d-ff14a90e1d7c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_amount.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_amount.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,8 +31,12 @@
       </map>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -361,8 +317,16 @@
       <workItem from="1666792939882" duration="1344000" />
       <workItem from="1666794903577" duration="485000" />
       <workItem from="1666795392646" duration="504000" />
-      <workItem from="1666795930060" duration="977000" />
+      <workItem from="1666795930060" duration="1597000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1666797157899</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666797157899</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,6 +342,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
