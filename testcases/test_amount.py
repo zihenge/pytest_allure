@@ -26,5 +26,17 @@ class Testbian:
             print("失败" + json.dumps(r.json(), indent=2))
     #      pytest -vs --html .\log\wenjian1.html .\testcases\test_amount.py
 
+    @pytest.mark.flaky(reruns=0, reruns_delay=0)
+    def test_tx1(self):
+        data = {
+            'access_token': read_yaml('access_token')
+        }
+        req = requests.post(url + '/payment/withdraw/h5/withdrawLeft', data=data, headers=headers)
+        result = req.json()
+        print(req.text)
+        # assert 'leftMoney' in req.text
+        assert  result['code'] == 10200 # and
+
+
 if __name__ == '__main__':
     pytest.main()

@@ -14,6 +14,7 @@
   "testcases/test_Signyal.py::Testtx::test_get_token[caseinfo0]",
   "testcases/test_Signyal.py::Testtx::test_get_token[caseinfo1]",
   "testcases/test_amount.py::Testbian::test_tx",
+  "testcases/test_amount.py::Testbian::test_tx1",
   "testcases/test_api.py::TestApi::test_login",
   "testcases/test_api.py::TestApi::test_login0"
 ]
